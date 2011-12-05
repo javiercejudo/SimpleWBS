@@ -1,0 +1,32 @@
+                          SimpleWBS
+
+  What is it?
+  -----------
+
+  SimpleWBS is a small project written in PHP that allows the user to create
+  a relatively complex and fully documented WBS of ONE given project.
+
+  The Latest Version
+  ------------------
+
+  Details of the latest version can be found under 
+  https://github.com/javiercejudo/SimpleWBS.
+
+  Documentation
+  -------------
+
+  Documentation for the code or user guides are not yet available.
+
+  Installation
+  ------------
+
+  - Create edp database using the file edp.sql (make sure you include a new 
+    row in table usuario so you can actually log in the system)
+  - Specify user and pass for the database under login.php and
+    include/sesion.php
+  - Log in and start creating your WBS
+
+  Licensing
+  ---------
+
+  Please see the file called LICENSE.
